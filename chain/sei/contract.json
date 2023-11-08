@@ -1,0 +1,13 @@
+[
+  {
+      "chainId": -1,
+      "chainName": "sei",
+      "address": "sei1eavtmc4y00a0ed8l9c7l0m7leesv3yetcptklv2kalz4tsgz02mqlvyea6",
+      "symbol": "PKS",
+      "description": "Poker Kings Token",
+      "decimals": 6,
+      "image": "sei/asset/pks.png",
+      "default": true,
+      "coinGeckoId": ""
+  }
+]
